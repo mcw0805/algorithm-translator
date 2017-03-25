@@ -1,0 +1,5 @@
+# intellij based IDEs
+.idea
+
+# output folder
+out
